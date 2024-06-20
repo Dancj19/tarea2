@@ -192,7 +192,7 @@ img {
 
 /*tablero de venta*/
 .tablero_de_venta {
-    margin: 20px;
+    margin: 49px;
     background-color: #fff;
     border: 20px #a1f08d solid;
 }
@@ -226,6 +226,7 @@ img {
 .textocd{
     display: flex;
     padding-top: 20%;
+    text-align: left;
 }
 .directorio {
     display: flex;
@@ -281,4 +282,8 @@ a {
 a:hover {
     color: rgb(10, 13, 245);
     text-decoration: underline;
+}
+
+.marco_de_texto{
+    margin: 49px;
 }
